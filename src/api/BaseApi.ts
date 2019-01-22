@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-export abstract class Api {
+export abstract class BaseApi {
   abstract get resource()
   abstract get apiUrl()
 
