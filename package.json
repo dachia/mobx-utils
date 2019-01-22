@@ -1,0 +1,17 @@
+{
+  "name": "mobx-utils",
+  "version": "0.0.1",
+  "description": "Mobx form and model utils",
+  "main": "src/index.js",
+  "repository": "git@github.com:dachia/mobx-utils.git",
+  "author": "Artur Bartkevic <artur.bartkevic@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "formstate": "^1.0.2",
+    "lodash": "^4.17.11",
+    "mobx": "^5.9.0",
+    "typescript": "^3.2.4",
+    "uuid": "^3.3.2"
+  }
+}
